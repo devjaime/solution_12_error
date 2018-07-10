@@ -1,0 +1,235 @@
+{
+  "Length": [
+    {
+      "name": "Metros",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Milimetros",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Centimetros",
+      "conversion": 100.0
+    },
+    {
+      "name": "Kilemotros",
+      "conversion": 0.001
+    },
+    {
+      "name": "Pulgadas",
+      "conversion": 39.3701
+    },
+    {
+      "name": "Pies",
+      "conversion": 3.28084
+    },
+    {
+      "name": "Yardas",
+      "conversion": 1.09361
+    },
+    {
+      "name": "Mile",
+      "conversion": 0.000621371
+    }
+  ],
+  "Area": [
+    {
+      "name": "Metros cuadrados",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Kilometros cuadrados",
+      "conversion": 0.000001
+    },
+    {
+      "name": "Pulgadas cuadradas",
+      "conversion": 1550.0
+    },
+    {
+      "name": "Pies cuadrados",
+      "conversion": 10.7639
+    },
+    {
+      "name": "Yardas cuadradas",
+      "conversion": 1.19599
+    },
+    {
+      "name": "Acre",
+      "conversion": 0.000247105
+    },
+    {
+      "name": "Hectaria",
+      "conversion": 0.0001
+    }
+  ],
+  "Volume": [
+    {
+      "name": "Metro cúbico",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "US legal cup",
+      "conversion": 4166.67
+    },
+    {
+      "name": "US fluid ounce",
+      "conversion": 33814.0
+    },
+    {
+      "name": "US tablespoon",
+      "conversion": 67628.0
+    },
+    {
+      "name": "US teaspoon",
+      "conversion": 202884.0
+    },
+    {
+      "name": "Imperial cup",
+      "conversion": 3519.51
+    },
+    {
+      "name": "Imperial fluid ounce",
+      "conversion": 35195.1
+    },
+    {
+      "name": "Imperial tablespoon",
+      "conversion": 56312.13673
+    },
+    {
+      "name": "Imperial teaspoon",
+      "conversion": 168936.41019
+    }
+  ],
+  "Mass": [
+    {
+      "name": "Kilogramos",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Gramos",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Onza",
+      "conversion": 35.274
+    },
+    {
+      "name": "Libra",
+      "conversion": 2.20462
+    },
+    {
+      "name": "Piedra",
+      "conversion": 0.157473
+    },
+    {
+      "name": "US Toneladas",
+      "conversion": 0.00110231
+    },
+    {
+      "name": "Toneladas metricas",
+      "conversion": 0.001
+    }
+  ],
+  "Time": [
+    {
+      "name": "Segundos",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Milisegundos",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Minutos",
+      "conversion": 0.0166666666666667
+    },
+    {
+      "name": "Horas",
+      "conversion": 0.0002777777777778
+    },
+    {
+      "name": "Días",
+      "conversion": 0.00001157407407
+    },
+    {
+      "name": "Semanas",
+      "conversion": 0.000001653439153
+    },
+    {
+      "name": "Quincenas",
+      "conversion": 0.000000826719576
+    }
+  ],
+  "Digital Storage": [
+    {
+      "name": "Megabyte",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Megabit",
+      "conversion": 8.0
+    },
+    {
+      "name": "Mebibyte",
+      "conversion": 0.953674
+    },
+    {
+      "name": "Byte",
+      "conversion": 1000000.0
+    },
+    {
+      "name": "Kilobyte",
+      "conversion": 1000.0
+    },
+    {
+      "name": "Gigabyte",
+      "conversion": 0.001
+    },
+    {
+      "name": "Terabyte",
+      "conversion": 0.000001
+    },
+    {
+      "name": "Petabyte",
+      "conversion": 0.000000001
+    }
+  ],
+  "Energy": [
+    {
+      "name": "Joule",
+      "conversion": 1.0,
+      "base_unit": true
+    },
+    {
+      "name": "Kilojoule",
+      "conversion": 0.001
+    },
+    {
+      "name": "Gram calorie",
+      "conversion": 0.239006
+    },
+    {
+      "name": "Kilocalorie (Calorie)",
+      "conversion": 0.000239006
+    },
+    {
+      "name": "Watt hora",
+      "conversion": 0.000277778
+    },
+    {
+      "name": "Unidad Térmica Británica",
+      "conversion": 0.000947817
+    },
+    {
+      "name": "US therm",
+      "conversion": 0.0000000094804
+    }
+  ]
+}
